@@ -1,4 +1,4 @@
-![MarkDown](https://github.com/vit050587/Python-for-Data-Science/blob/master/Lib_ML_Python.jpg)
+![MarkDown](https://github.com/vit050587/Python-for-Data-Science/blob/master/Lib_ML_Python.png)
 # Python-for-Data-Science: Numpy, Matplotlib, Scikit-learn
 # Урок 2
 ## Тема “Вычисления с помощью Numpy”
